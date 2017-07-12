@@ -28,3 +28,8 @@ for example:
 在options里面配置一个
 <code> publicPath：'/' </code>
 就可以解决
+
+此时在dist文件下运行命令：(http-server可以通过npm i -g http-server全局安装)
+```
+http-server -p 8181
+```
