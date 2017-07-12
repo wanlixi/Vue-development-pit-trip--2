@@ -26,5 +26,5 @@ for example:
 }
 ```
 在options里面配置一个
-*** publicPath：'/' 
+<code> publicPath：'/' </code>
 就可以解决
